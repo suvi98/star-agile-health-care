@@ -1,0 +1,10 @@
+[webservers]
+
+172.31.2.247
+
+[webservers:vars]
+ansible_ssh_user="ubuntu"
+ansible_ssh_port=22
+ 
+
+ 
